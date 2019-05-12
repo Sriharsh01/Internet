@@ -11,6 +11,16 @@
     
     
     </style>
+     <title>Bootstrap Example</title>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+   </head>
+  
+   
     <body>
         <h1><font face="Vineta BT" color="#14fc00" size="10"><center>INTERNET AND SERVICES AVAILABLE ON INTERNET</center></font></h1>
         <h1><font face="Comic Sans MS" color="GOLD" size="7" ><center>INTERNET AND IT'S USES</center></font></h1>
@@ -44,5 +54,6 @@
                 examined.If they are any packets missing or damaged,a message is sent asking for the packets to be resent. This 
                 continues until all the packets have been received.
             </font></p>
+            <
     </body>
     </html>
