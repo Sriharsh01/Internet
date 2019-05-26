@@ -3,13 +3,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
    
    <style>
-        body{
-            background-image: url(https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2420586/600/400/m2/fpnw/wm0/22-.jpg?1489748277&s=62baa60ecdf6cf31b31e2054965ecdc4);
-            background-repeat: no-repeat;
-            background-position: right top;       
-            margin: 200px;
-            background-attachment: fixed;
-             }
+           
     
     h1{
         font-family: Comic Sans MS;
